@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.androidproject202'
+    namespace 'com.example.profilescreen'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.androidproject202"
-        minSdk 24
+        applicationId "com.example.profilescreen"
+        minSdk 25
         targetSdk 33
         versionCode 1
         versionName "1.0"
